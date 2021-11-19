@@ -13,6 +13,14 @@ Text Domain: nuwfuncy
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-body {
+.indexx{
     background: #510297;
+}
+
+.error{
+    background-image: url("images/Fuego.jpg");
+    color: #00ffcd;
+}
+#prueba{
+    color: #0df600;
 }

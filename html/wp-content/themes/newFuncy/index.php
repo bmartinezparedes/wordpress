@@ -5,7 +5,7 @@
         <title>NEW FUNCY</title>
         <link rel="stylesheet" href=<?php echo get_stylesheet_uri();?>>
     </head>
-    <body>
+    <body class="indexx"
         <?php get_header() ?>
         <?php include("header.php");?>
         <div id="cuerpo">
