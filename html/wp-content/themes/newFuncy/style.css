@@ -14,7 +14,7 @@ This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
 .indexx{
-    background: #510297;
+    background: #08f5ea;
 }
 
 .error{
@@ -50,4 +50,17 @@ Use it to make something cool, have fun, and share what you've learned with othe
     width: 200px;
     height: 100px;
     color: red;
+}
+.imagen{
+    margin-right: 10px;
+}
+.entry{
+    display:flex;
+    flex-direction: row ;
+}
+.border{
+
+}
+.contenido{
+    padding: 0;
 }
